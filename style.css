@@ -1,0 +1,18 @@
+* {
+  background-color: coral;
+}
+body {
+  display: flex;
+}
+.yazı {
+  margin-top: 200px;
+  font-size: 8rem;
+  font-style: italic;
+}
+.yazı > h5 {
+  font-size: 2rem;
+}
+div > img {
+  width: 600px;
+  height: 600px;
+}
